@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Eugenia Carlini
+- 🌱 I’m currently working at Mercado Libre as a software developer.
+- 💞️ I’m looking to collaborate on frontend/backend applications
